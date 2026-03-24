@@ -1,0 +1,1 @@
+A "Nhi Đồng" (Junior) exploration into waveform generation, developed by BuiHuyHoang. This project features a Sine and Pulse Signal Generator built with the classic PIC16F877A and the AD9833 module. It serves as a practical application of SPI communication and precise frequency control.
